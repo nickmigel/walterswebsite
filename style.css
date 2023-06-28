@@ -205,3 +205,8 @@ footer {
     margin: 1%;
     margin-bottom: 1%;
 }
+
+img {
+    max-width: 60%;
+    height: auto;
+}
